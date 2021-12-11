@@ -12,4 +12,4 @@ dateCreated: 2021-12-10T07:11:52.520Z
 Welcome to Civilization VI Modding Wiki
 
 ## Links
-[The Modifier System - About](/database-modding/modifier-system/home)
+[The Modifier System - About](/database-modding/modifier-system/modifier-system.md)
