@@ -2,7 +2,7 @@
 title: The Modifier System - About
 description: An introduction to Civ VI's modifier system
 published: true
-date: 2021-12-11T10:37:56.704Z
+date: 2021-12-11T12:41:44.524Z
 tags: database modding, modifiers, requirements
 editor: markdown
 dateCreated: 2021-12-10T07:19:34.162Z
