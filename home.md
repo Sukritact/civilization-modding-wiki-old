@@ -1,8 +1,8 @@
 ---
 title: Main Page
-description: Welcome to Civilization VI Modding Wiki
+description: Welcome to the Civilization Modding Wiki
 published: true
-date: 2021-12-11T20:30:45.563Z
+date: 2021-12-12T06:39:45.359Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-10T07:11:52.520Z
