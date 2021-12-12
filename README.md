@@ -1,1 +1,2 @@
-# civilization-vi-modding-wiki
+# Civilization Modding Wiki
+Welcome to the Civilization Modding Wiki. If you are seeing this ReadMe, you are likely viewing this through GitHub. The standard landing page can be found [here](home.md). This repository also exists as a website, which may be found [here.](https://civilization-modding-wiki.herokuapp.com)
