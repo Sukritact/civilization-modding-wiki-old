@@ -13,4 +13,4 @@ Welcome to Civilization Modding Wiki! A fan site dedicated to providing help and
 
 If you'd like to contribute simply login or register and you can get started! Please restrict yourself to only using the **Markdown editor** (so please dont use the WYSIWYG or Code editors) for the sake of those accessing this site via GitHub.
 ## Links
-[The Modifier System - About](/database-modding/modifier-system/modifier-system.md)
+[The Modifier System - About](civilization-vi/database-modding/modifier-system/modifier-system.md)
