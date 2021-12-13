@@ -2,13 +2,13 @@
 title: List of Effect Types
 description: 
 published: true
-date: 2021-12-13T18:01:34.023Z
+date: 2021-12-13T18:05:10.025Z
 tags: database modding, modifiers, civilization vi
 editor: markdown
 dateCreated: 2021-12-13T17:48:41.575Z
 ---
 
-<div style="width: 50vw;" overflow="auto">
+<div style="width: auto; overflow-x: scroll;">
 <table>
 <thead>
 	<tr>
