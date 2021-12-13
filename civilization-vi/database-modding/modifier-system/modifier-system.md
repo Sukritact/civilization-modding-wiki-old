@@ -2,10 +2,10 @@
 title: The Modifier System - About
 description: An introduction to Civ VI's modifier system
 published: true
-date: 2021-12-11T19:27:31.672Z
+date: 2021-12-13T17:47:48.958Z
 tags: database modding, modifiers, requirements
 editor: markdown
-dateCreated: 2021-12-11T16:46:58.677Z
+dateCreated: 2021-12-12T06:48:52.298Z
 ---
 
 # The Modifier System
@@ -16,7 +16,7 @@ The Modifier System is the way most effects and abilities in Civilization VI are
 A modifier is composed of a **Modifier Type**, a series of **Modifier Arguments**, an **Owner**, a **Subject**. Each modifier in the database is identified by a unique **Modifier ID**.
 
 ### Modifier Type
-**Modifier Types** are a combination of an **Effect Type** and a **Collection Type**. The effect type determines what the Modifier will do, and the collection type determines what objects a modifier affects. Modifier Types can be found in the DynamicModifiers table of the database.
+**Modifier Types** are a combination of an **[Effect Type](effect-types-list)** and a **Collection Type**. The effect type determines what the Modifier will do, and the collection type determines what objects a modifier affects. Modifier Types can be found in the DynamicModifiers table of the database.
 
 For instance the `MODIFIER_PLAYER_ADJUST_PLOT_YIELD` modifier type is a combination of the `EFFECT_ADJUST_PLOT_YIELD` effect type and the `COLLECTION_PLAYER_PLOT_YIELDS` collection type. So a modifier of this type will adjust the plot yield of all plots owned by the player that owns this modifier.
 
