@@ -2,7 +2,7 @@
 title: List of Effect Types
 description: 
 published: true
-date: 2021-12-15T13:24:36.503Z
+date: 2021-12-15T13:26:32.294Z
 tags: database modding, modifiers, civilization vi
 editor: markdown
 dateCreated: 2021-12-13T17:48:41.575Z
