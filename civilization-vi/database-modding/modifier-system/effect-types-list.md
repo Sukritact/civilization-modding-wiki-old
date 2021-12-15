@@ -2,7 +2,7 @@
 title: List of Effect Types
 description: 
 published: true
-date: 2021-12-15T00:31:48.273Z
+date: 2021-12-15T13:17:50.100Z
 tags: database modding, modifiers, civilization vi
 editor: markdown
 dateCreated: 2021-12-13T17:48:41.575Z
@@ -13,7 +13,7 @@ This table has been adapted from [ChimpanG's Modding Companion](https://docs.goo
 
 ---
 
-<div style="width: auto; overflow-x: scroll;">
+<div style="width: auto; height: auto; overflow: scroll;">
 <table>
 <thead>
 	<tr>
