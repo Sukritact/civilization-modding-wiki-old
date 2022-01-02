@@ -2,7 +2,7 @@
 title: The Modifier System - About
 description: An introduction to Civ VI's modifier system
 published: true
-date: 2021-12-13T18:13:28.484Z
+date: 2022-01-02T15:34:18.920Z
 tags: database modding, modifiers, requirements
 editor: markdown
 dateCreated: 2021-12-12T06:48:52.298Z
@@ -36,4 +36,4 @@ The Owner is not explicitly defined as part of the modifier's definition: instea
 
 The Subject is determined by a combination of the Owner and the modifier's **Collection Type**. `COLLECTION_PLAYER_PLOT_YIELDS` targets Plot/Hexes owned by the Player which owns the modifier.
 
-Both Objects and Subjects can have [Requirement Sets](requirement-sets.md) associated with them. Requirement Sets are a collection of [Requirements](requirements.md) which must be met before the Modifier will take effect. For instance, you can use `PLOT_HAS_TUNDRA_REQUIREMENTS` as a Subject Requirement Set to restrict a modifier to affecting objects on tiles with Tundra.
+Both Objects and Subjects can have [Requirement Sets](requirement-sets.md) associated with them. Requirement Sets are a collection of [Requirements](requirement-types-list.md) which must be met before the Modifier will take effect. For instance, you can use `PLOT_HAS_TUNDRA_REQUIREMENTS` as a Subject Requirement Set to restrict a modifier to affecting objects on tiles with Tundra.
